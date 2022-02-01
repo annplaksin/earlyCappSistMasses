@@ -1,0 +1,342 @@
+id;label;type;sourceType;composer
+1001;G 450;source;Ausgabe; 
+1003;1505/1;source;Ausgabe; 
+1005;A 431;source;Ausgabe; 
+1006;Heyden 1537;source;Musiktheorie; 
+1007;B 4643;source;Ausgabe; 
+1008;L 718;source;Ausgabe; 
+1009;I 88;source;Ausgabe; 
+1010;1504/2;source;Ausgabe; 
+1011;[c.1535]/14;source;Ausgabe; 
+1012;1538/9;source;Ausgabe; 
+1013;1507/5 oder 1507/6;source;Tabulatur; 
+1014;1536/12;source;Tabulatur; 
+1015;1562/24;source;Tabulatur; 
+1017;1509/1;source;Ausgabe; 
+1018;1522;source;Ausgabe; 
+1019;1516/1;source;Ausgabe; 
+1020;O 7;source;Ausgabe; 
+1022;Heyden 1540;source;Musiktheorie; 
+1027;1547/1;source;Musiktheorie; 
+1028;Erotemata 1563;source;Musiktheorie; 
+1030;1539/1;source;Ausgabe; 
+1033;J 673 (J 674);source;Ausgabe; 
+1035;J 671;source;Ausgabe; 
+1039;J 668 (J 667);source;Ausgabe; 
+1040;J 670;source;Ausgabe; 
+1041;J 666;source;Ausgabe; 
+1042;J 669;source;Ausgabe; 
+1043;J 672;source;Ausgabe; 
+1044;J 675;source;Ausgabe; 
+1046;1543/19;source;Ausgabe; 
+1047;1553/26;source;Ausgabe; 
+1048;1545/6;source;Ausgabe; 
+1049;1545/7;source;Ausgabe; 
+1050;1552/29;source;Tabulatur; 
+1051;1552/35;source;Tabulatur; 
+1052;Vaena 1540;source;Tabulatur; 
+1053;1547/25;source;Tabulatur; 
+1054;1503/1;source;Ausgabe; 
+1055;1508/3;source;Ausgabe; 
+1057;1554/32;source;Tabulatur; 
+1058;Mudarra 1546/14 (Brown) & 1546/34;source;Tabulatur; 
+1059;1538/22;source;Tabulatur; 
+1060;Zanger 1554;source;Musiktheorie; 
+1061;1549/16;source;Ausgabe; 
+1062;1590/30;source;Ausgabe; 
+1063;1594/3;source;Ausgabe; 
+1064;1583/22;source;Tabulatur; 
+1065;1578/24;source;Tabulatur; 
+1066;Heckel 1556/34;source;Tabulatur; 
+1067;1536/13;source;Tabulatur; 
+1068;1558/20;source;Tabulatur; 
+1069;Venegas 1557/2 (Brown);source;Tabulatur; 
+1071;1539/2;source;Ausgabe; 
+1073;[1506] Nr. 30 (Boorman);source;Ausgabe; 
+1074;J 677;source;Ausgabe; 
+1075;Faber, Nürnberg 1550;source;Musiktheorie; 
+1076;Gallus Dreslerus Nebraeus, Magdeburg 1571;source;Musiktheorie; 
+1078;Tinctoris, Prop. Mus.;source;Musiktheorie; 
+1079;Tinctoris, Lib. Con.;source;Musiktheorie; 
+1081;Finck 1556;source;Musiktheorie; 
+1082;1501;source;Ausgabe; 
+1083;1515/1 & F 689;source;Ausgabe; 
+1084;O 137;source;Ausgabe; 
+2001;VatS 14;source;Kernkorpus; 
+2002;VatS 23;source;Kernkorpus; 
+2003;VatS 35;source;Kernkorpus; 
+2004;VatS 41;source;Kernkorpus; 
+2005;VatS 49;source;Kernkorpus; 
+2006;VatS 51;source;Kernkorpus; 
+2007;VatS 63;source;Kernkorpus; 
+2008;VatS 197;source;Kernkorpus; 
+2009;VatS 15;source;Handschrift; 
+2010;VatS 42;source;Handschrift; 
+2011;VatS 44;source;Handschrift; 
+2012;VatS 46;source;Handschrift; 
+2013;VienNB Mus. 15499;source;Handschrift; 
+2015;VienNB Mus. 18832;source;Handschrift; 
+2016;VienNB Mus. 15495;source;Handschrift; 
+2017;VienNB Mus. 15497;source;Handschrift; 
+2018;VienNB Mus. 16746;source;Handschrift; 
+2019;VienNB 11778;source;Handschrift; 
+2021;VienNB 11883;source;Handschrift; 
+2022;VienNB 4809;source;Handschrift; 
+2023;VienNB 1783;source;Handschrift; 
+2024;BrusBR 9126;source;Handschrift; 
+2025;BrusBR 5557;source;Handschrift; 
+2026;BasU F.IV.25e-f;source;Handschrift; 
+2027;BasU F.X.21;source;Handschrift; 
+2028;BasU F.VI.26e;source;Handschrift; 
+2029;BasU F.IV.25a-d;source;Handschrift; 
+2030;HRadKM 7;source;Handschrift; 
+2031;BerlPS 40634;source;Handschrift; 
+2032;BerlS 40091;source;Handschrift; 
+2033;BerlPS 40013;source;Handschrift; 
+2034;BerlS 40021;source;Handschrift; 
+2035;HerdF 9821;source;Handschrift; 
+2036;EisS s.s.;source;Handschrift; 
+2037;JenaU 7;source;Handschrift; 
+2038;JenaU 36;source;Handschrift; 
+2039;JenaU 22;source;Handschrift; 
+2040;JenaU 3;source;Handschrift; 
+2041;JenaU 32;source;Handschrift; 
+2042;JenaU 31;source;Handschrift; 
+2043;DresSL Pirna IV;source;Handschrift; 
+2044;DresSL 1/D/506;source;Handschrift; 
+2045;DresSL 1/D/505;source;Handschrift; 
+2046;DresSL 1/E/24;source;Handschrift; 
+2047;DresSL Grimma 52;source;Handschrift; 
+2048;DresSL Grimma 53;source;Handschrift; 
+2049;DresSL Grimma 59a;source;Handschrift; 
+2050;FrankSU 2;source;Handschrift; 
+2051;GreifU 640-1;source;Handschrift; 
+2052;LeipU 49;source;Handschrift; 
+2053;LeipU 51;source;Handschrift; 
+2054;LeipU 1494;source;Handschrift; 
+2055;MunBS 65;source;Handschrift; 
+2056;MunBS 3154;source;Handschrift; 
+2057;MunBS C;source;Handschrift; 
+2058;MunBS 510;source;Handschrift; 
+2059;MunU 239;source;Handschrift; 
+2060;NurGN 83795;source;Handschrift; 
+2061;RosU 40;source;Handschrift; 
+2062;RosU 49;source;Handschrift; 
+2063;RegB B220-2;source;Handschrift; 
+2064;RegB C100;source;Handschrift; 
+2065;StuttL 46;source;Handschrift; 
+2066;StuttL 47;source;Handschrift; 
+2067;StuttL HB 26;source;Musiktheorie; 
+2068;StuttL 44;source;Handschrift; 
+2069;WolfA A;source;Handschrift; 
+2070;WeimB B;source;Handschrift; 
+2071;ZwiR 119/1;source;Handschrift; 
+2072;ZwiR 78/3;source;Handschrift; 
+2073;BarcOC 5;source;Handschrift; 
+2074;ToleBC 19;source;Handschrift; 
+2075;ToleBC 27;source;Handschrift; 
+2076;ToleBC 16;source;Handschrift; 
+2077;ToleF 23;source;Handschrift; 
+2078;ToleBC 9;source;Handschrift; 
+2079;CambraiBM 125-8;source;Handschrift; 
+2080;CambraiBM 4;source;Handschrift; 
+2081;CambraiBM 18;source;Handschrift; 
+2082;ParisBNC 676;source;Handschrift; 
+2083;ParisBNC 851;source;Handschrift; 
+2084;LonBL 31922;source;Handschrift; 
+2085;LonBL 4911;source;Musiktheorie; 
+2086;BudOS 24;source;Handschrift; 
+2087;BudOS P6;source;Handschrift; 
+2088;BudOS 20;source;Handschrift; 
+2089;HeilbS X/2;source;Handschrift; 
+2090;BolC Q19;source;Handschrift; 
+2091;BolC Q25;source;Handschrift; 
+2092;BolSP 38;source;Handschrift; 
+2093;BolSP 31;source;Handschrift; 
+2094;MilA 46;source;Handschrift; 
+2095;MilD 3;source;Handschrift; 
+2096;MilD 2;source;Handschrift; 
+2097;ModD 4;source;Handschrift; 
+2098;ModE M.1.2;source;Handschrift; 
+2099;ModE N.1.2;source;Handschrift; 
+2101;VatS 160;source;Handschrift; 
+2102;VatSP B80;source;Handschrift; 
+2103;VatP 1982;source;Handschrift; 
+2104;VatP 1980-1;source;Handschrift; 
+2105;VatS 45;source;Handschrift; 
+2106;VatG XIII.27;source;Handschrift; 
+2107;VatSM 26;source;Handschrift; 
+2108;VatC 234;source;Handschrift; 
+2109;SubA 248;source;Handschrift; 
+2110;TrentC 91;source;Handschrift; 
+2111;TrentC 88;source;Handschrift; 
+2112;VerBC 757;source;Handschrift; 
+2113;VerBC 756;source;Handschrift; 
+2114;VerBC 755;source;Handschrift; 
+2115;VerBC 761;source;Handschrift; 
+2116;LeidGA 1443;source;Handschrift; 
+2117;UppsU 76c;source;Handschrift; 
+2118;UppsU 76b;source;Handschrift; 
+2119;UppsU 76e;source;Handschrift; 
+2120;PozU 7022;source;Handschrift; 
+2121;WarU 2016;source;Handschrift; 
+2122;UlmS 237;source;Handschrift; 
+2123;LucAS 238;source;Handschrift; 
+2124;ModE M.1.13;source;Handschrift; 
+2125;EdinNL 5.1.15;source;Handschrift; 
+2126;ModAS s.s.;source;Handschrift; 
+2127;FlorBN BR 229;source;Handschrift; 
+2129;TrentC 89;source;Handschrift; 
+2130;AntP M18.13/1;source;Handschrift; 
+2131;WashLC M6;source;Handschrift; 
+2132;SegC s.s.;source;Handschrift; 
+2133;FlorBN Magl. 107bis;source;Handschrift; 
+2134;RegB 940-1;source;Handschrift; 
+2135;BasU kk.II.32 (AP);source;Handschrift; 
+2136;BolC Q18;source;Handschrift; 
+2137;FlorBN Panc. 27;source;Handschrift; 
+2138;SGallS 462;source;Handschrift; 
+2139;BasU F.IX.22 (AP);source;Tabulatur; 
+2140;MunU 718 (AP);source;Musiktheorie; 
+2141;VienNB Mus. 18688 (AP);source;Tabulatur; 
+2142;BerlS 40632 (AP);source;Tabulatur; 
+2143;TurBN 59 (AP);source;Handschrift; 
+2144;SienBC K.I.2;source;Handschrift; 
+2145;CasAC M(D);source;Handschrift; 
+2146;LinzBS 529;source;Handschrift; 
+2147;ZwiR 13/3;source;Musiktheorie; 
+2148;AmstT 27 (NJE 3.3.);source;Tabulatur; 
+2149;WarSM 564 (NJE 3.3.);source;Tabulatur; 
+2150;ZürZ 301 (NJE 3.3.);source;Tabulatur; 
+2151;BarcBC 454;source;Handschrift; 
+2152;BasU F.VI.26h;source;Handschrift; 
+2153;BrnoAM 15/4;source;Handschrift; 
+2154;VatG XII.2;source;Handschrift; 
+2155;VatS 154;source;Handschrift; 
+2156;MunBS 260;source;Handschrift; 
+2157;PragNL 59R5117  (NJE 3.1.);source;Handschrift; 
+2158;RoccaP s.s.;source;Handschrift; 
+2159;SGallS 463;source;Handschrift; 
+2160;TrevBC 9;source;Handschrift; 
+2161;MunBS 272 (NJE 3.3);source;Tabulatur; 
+2162;BerlPS Mus. Ms. Theor. 1175;source;Musiktheorie; 
+2163;ChiN 107501 (AP);source;Tabulatur; 
+2164;RegB 878-82;source;Handschrift; 
+2165;ToleBC 21;source;Handschrift; 
+2166;I-Rpol 1517/3;source;Handschrift; 
+2167;MunBS 53;source;Handschrift; 
+2168;CasAC L(B);source;Handschrift; 
+2169;BerlGS 7;source;Handschrift; 
+2170;Paris Thibault;source;Tabulatur; 
+2171;Heidelberg Kapellinventar;source;Handschrift; 
+2172;VatS 64;source;Kernkorpus; 
+2173;BolC A69 [AP];source;Musiktheorie; 
+8001;Missa Ave Regina caelorum - Weerbeke;work; ;Weerbeke
+8002;Missa Se la face ay pale - Dufay;work; ;Dufay
+8003;Missa Spiritus almus - de Dormarto;work; ;de Dormarto
+8004;Missa Aeterne rex altissime - Vincenet;work; ;Vincenet
+8005;Missa Dixerunt discipuli - Eloy;work; ;Eloy
+8006;Missa sine nomine - anonym;work; ;anonym
+8007;Missa Ecce ancilla domini - Dufay;work; ;Dufay
+8008;Missa Ecce ancilla domini - Regis;work; ;Regis
+8009;Missa L´homme armé - Dufay;work; ;Dufay
+8010;Missa L´homme armé - Busnoys;work; ;Busnoys
+8011;Missa Dum sacrum misterim / L´homme armé - Regis;work; ;Regis
+8012;Missa L´homme armé - Caron;work; ;Caron
+8013;Missa L´homme armé - Faugues;work; ;Faugues
+8014;Missa De plus en plus - Ockeghem;work; ;Ockeghem
+8015;Missa Puis que je vis - anonym;work; ;anonym
+8016;Missa de Angelis - Prioris;work; ;Prioris
+8017;Missa Je ne demande - Agricola;work; ;Agricola
+8018;Missa Gaudeamus - Josquin;work; ;Josquin
+8019;Missa Malheur me bat - Josquin;work; ;Josquin
+8020;Missa Le Serviteur - Agricola;work; ;Agricola
+8021;Missa L´ami baudichon - Josquin;work; ;Josquin
+8022;Missa Le villain jalloux - Fevin;work; ;Fevin
+8023;Missa Faisant regret - Josquin;work; ;Josquin
+8024;Missa De beata virgine - Josquin;work; ;Josquin
+8026;Missa Quarti Toni - Fresneau;work; ;Fresneau
+8027;Missa Dominicalis - Brumel;work; ;Brumel
+8028;Missa Tant bel mi sont pensade - Prioris;work; ;Prioris
+8029;Missa Puer natus - de la Rue;work; ;de la Rue
+8030;Missa Ave maris stella - anonym;work; ;anonym
+8031;Missa A qui diralle sa pensée - anonym;work; ;anonym
+8032;Missa Cujusvis toni - Ockeghem;work; ;Ockeghem
+8033;Kyrie-Gloria De beata virgine - anonym;work; ;anonym
+8034;Missa Quant j´ay au ceur - Isaac;work; ;Isaac
+8035;Missa La martinelle - Martini;work; ;Martini
+8036;Missa Allez regrets - Prioris;work; ;Prioris
+8037;Missa L´homme armé - Compere;work; ;Compere
+8038;Missa de Sancto Donatiano - Obrecht;work; ;Obrecht
+8039;Missa L´homme armé - Tinctoris;work; ;Tinctoris
+8040;Missa [ad fugam] - Orto;work; ;Orto
+8041;Missa L´homme armé - Basiron;work; ;Basiron
+8042;Missa de Franza - Basiron;work; ;Basiron
+8043;Missa Se mieulx ne vient - Weerbeke;work; ;Weerbeke
+8044;Missa L´homme armé - Ockeghem;work; ;Ockeghem
+8045;Missa Princesse d´amourettes - Weerbeke;work; ;Weerbeke
+8046;Missa de feria - Martini;work; ;Martini
+8047;Missa Plurimorum carminum I - Obrecht;work; ;Obrecht
+8048;Missa Gentilz gallans - Pintelli;work; ;Pintelli
+8049;Missa L´homme armé - Pipelare;work; ;Pipelare
+8050;Missa L´homme armé sexti toni - Josquin;work; ;Josquin
+8051;Missa La sol fa re mi - Josquin;work; ;Josquin
+8052;Missa Fortuna - Josquin;work; ;Josquin
+8053;Missa Ave maris stella - Josquin;work; ;Josquin
+8055;Missa De beata virgine - de la Rue;work; ;de la Rue
+8056;Missa Victime - Brumel;work; ;Brumel
+8057;Missa Au travail suis - Ockeghem;work; ;Ockeghem
+8058;Missa Quarti Toni [=Mi Mi?] - Ockeghem;work; ;Ockeghem
+8059;Missa Da pacem domine - Pasquin;work; ;Pasquin
+8060;Missa D´ung aultre amer - Josquin;work; ;Josquin
+8061;Missa Trop penser - Weerbeke;work; ;Weerbeke
+8062;Missa Du bon du ceur - Vaqueras;work; ;Vaqueras
+8063;Missa [Adieu madame] - anonym;work; ;anonym
+8064;Missa L´homme armé - Vaqueras;work; ;Vaqueras
+8066;Missa [Sine nomine] - anonym;work; ;anonym
+8067;Missa Comme femme - Isaac;work; ;Isaac
+8068;Missa T´meiskin - Isaac;work; ;Isaac
+8069;Missa * - Hilanas;work; ;Hilanas
+8070;Missa Ave maris stella - anonym;work; ;anonym
+8071;Missa Elle est bien malade - anonym;work; ;anonym
+8072;Missa ad fugam - Josquin;work; ;Josquin
+8073;Missa L´homme armé - Brumel;work; ;Brumel
+8074;Missa Acueilly m´a la belle - Caron;work; ;Caron
+8075;Missa Pour quoy - Heyns;work; ;Heyns
+8076;Missa O gloriosa - Vincenet;work; ;Vincenet
+8077;Missa Et super novem dealabor - de Clibano;work; ;de Clibano
+8078;Missa Jesus autem transiens - Caron;work; ;Caron
+8079;Missa Basse danse - Faugues;work; ;Faugues
+8080;Missa Vinnus vina - Faugues;work; ;Faugues
+8081;Missa Sanguis sanctorum - Caron;work; ;Caron
+8082;Missa L´ardant désir - anonym;work; ;anonym
+8083;Missa O Crux lignum triumphale - Busnoys;work; ;Busnoys
+8084;Missa D´ung aultre amer - anonym;work; ;anonym
+8085;Missa Regina caeli - Basiron;work; ;Basiron
+8086;Missa O venus bant - Weerbeke;work; ;Weerbeke
+8087;Missa Orsus orsus - Martini;work; ;Martini
+8088;Missa Cela sans plus - Martini;work; ;Martini
+8089;Missa Je ne demande - anonym;work; ;anonym
+8090;Missa Salve diva parens - Obrecht;work; ;Obrecht
+8094;Missa [Sine nomine] - anonym;work; ;anonym
+8095;Missa [De Feria] - anonym;work; ;anonym
+8096;Missa L´homme armé super voces - Josquin;work; ;Josquin
+8097;Kyrie paschali - anonym;work; ;anonym
+8098;Kyrie tempore paschali - anonym;work; ;anonym
+8099;Missa [de beata virgine] - Wreede;work; ;Wreede
+8100;Gloria [de beata virgine] - anonym;work; ;anonym
+8101;Credo - anonym;work; ;anonym
+8102;Gloria [de beata Virgine] - anonym;work; ;anonym
+8103;Credo [de Village] - de Clibano;work; ;de Clibano
+8104;Credo [De tous bien] - Weerbeke;work; ;Weerbeke
+8105;Credo I - Vaqueras;work; ;Vaqueras
+8106;Credo - anonym;work; ;anonym
+8107;Credo IV - Vaqueras;work; ;Vaqueras
+8108;Credo Chascun me crie - Josquin;work; ;Josquin
+8109;Credo (a cinque) - Orto;work; ;Orto
+8110;Credo Je ne vis oncques II - Agricola;work; ;Agricola
+8112;Kyrie de feria - anonym;work; ;anonym
+8113;Credo Vilayge II - Josquin;work; ;Josquin
+8115;Credo De tous biens playne - Josquin;work; ;Josquin
+8116;Credo La belle se siet - Josquin;work; ;Josquin
+8122;Missa L´homme armé - Orto;work; ;Orto
