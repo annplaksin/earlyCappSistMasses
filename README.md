@@ -1,6 +1,4 @@
-# earlyCappSistMasses
-
-Collected metadata for masses in the early Cappella Sistina choirbooks
+# Collected metadata for masses in the early Cappella Sistina choirbooks
 
 ## About
 
@@ -9,6 +7,10 @@ It presents the mass compositions contained in the manuscript sources V-CVbav MS
 
 The data has been collected in the year 2015 and hasn't been double-checked by any other person. Even though the data was collected as conscientiously as possible, it is sometimes incomplete and errors are also possible. The data as well as the data structure has been collected mostly in German.
 References for this metadata collection can be found under `./references`.
+
+This data has been used already in:
+
+* Plaksin, Anna Viktoria Katrin: "Modelle zur computergestützten Analyse von Überlieferungen der Mensuralmusik. Emprische Textforschung im Kontext phylogenetischer Verfahren.", Münster, 2021 (Schriften zur Musikwissenschaft aus Münster 27), online: [urn:nbn🇩🇪hbz:6-59029717067](http://nbn-resolving.de/urn:nbn:de:hbz:6-59029717067), DOI: [10.26083/tuprints-00017211](https://doi.org/10.26083/tuprints-00017211).
 
 ## Contents
 
