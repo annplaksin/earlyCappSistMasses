@@ -1,0 +1,33 @@
+\documentclass{scrartcl}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{url}
+%\usepackage[safeinputenc]{biblatex}
+
+\usepackage[
+    backend=biber, % biber ist das Standard-Backend für Biblatex. Für die Abwärtskompatibilität kann hier auch bibtex oder bibtex8 gewählt werden (siehe biblatex-Dokumentation)
+    style=alphabetic, %numeric, authortitle, alphabetic etc.
+    autocite=footnote, % Stil, der mit \autocite verwendet wird
+    sorting=nyt, % Sortierung: nty = name title year, nyt = name year title u.a.
+    sortcase=false,
+    hyperref=auto,
+    isbn=false,
+    url,
+    %organization,
+]{biblatex}   % Literaturverzeichnis
+\addbibresource{ref.bib}
+\nocite{*}
+
+\title{Collected metadata for masses in the early Cappella Sistina choirbooks}
+\author{Anna Plaksin}
+\date{}
+ 
+ 
+\begin{document}
+
+\maketitle
+
+\printbibliography[title=References]
+ 
+ 
+\end{document}
