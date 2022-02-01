@@ -1,0 +1,151 @@
+idOrt,Name,GeoNames,GND,Latitude,Longitude,Land
+6001,<keine Angabe>,,,,,
+6002,<unbekannt>,,,,,
+6003,Alcala,,,,,
+6004,Amsterdam?,,,,,
+6005,Augsburg? München? Bayern,,,,,
+6006,Bartfa,,,,,
+6007,Barth,,,,,
+6008,"Basel od. Umgebung?, Schweiz",,,,,
+6009,Basel,,,,,Schweiz
+6010,Bayern (Wittenberg & Regensburg),,,,,
+6011,Bayern,,,,,
+6012,Böhmen,,,,,
+6013,Bologna,,,,,Italien
+6014,Borna (bei Leipzig),,,,,
+6015,Bruges (evtl.),,,,,
+6016,Brüssel / Mechlin,,,,,
+6017,Cambrai / Hennegau / Bruges,,,,,
+6018,Cambrai,,,,,Frankreich
+6019,Casale Monferrato,,,,,Italien
+6020,Deutschland,,,,,
+6021,"Deutschland, Osten",,,,,
+6022,"Deutschland, Stuttgart?",,,,,
+6023,Eisenach,,,,,Deutschland
+6024,Ferrara,,,,,
+6025,Flandern,,,,,
+6026,Florenz,,,,,Italien
+6027,Fossombrone,,,,,
+6028,Frankfurt am Main,,,,,Deutschland
+6029,Frankfurt am Main?,,,,,
+6030,Frankreich,,,,,
+6031,"Frankreich, Troyes?",,,,,
+6032,Frauenburg,,,,,
+6033,"Ghent, Bruges oder Antwerpen",,,,,
+6034,Girona (teilw.) / Katalonien od. Italien,,,,,
+6035,"Glarus oder Umgebung, Schweiz",,,,,
+6036,Halberstadt? Torgau? Leipzig?,,,,,
+6037,Hamburg,,,,,
+6038,Heidelberg,,,,,
+6039,Ingolstadt (Universität?),,,,,
+6040,Innsbruck (& Augsburg)?,,,,,
+6041,"Italien (Rifkin),Frankreich (LockR)",,,,,
+6042,Italien,,,,,
+6043,"Italien, Bologna",,,,,
+6044,"Italien, Norden (Florenz? Mantua?)",,,,,
+6045,"Italien, Norden (Florenz?)",,,,,
+6046,Italien?,,,,,
+6047,"Königsberg?, Ostpreußen",,,,,
+6048,Lauingen,,,,,
+6049,Leipzig,,,,,Deutschland
+6050,Lissabon,,,,,
+6051,London,,,,,Vereinigtes Königreich
+6052,Louvain,,,,,
+6053,Lwów,,,,,
+6054,Madrid,,,,,
+6055,Magdeburg,,,,,
+6056,Mailand,,,,,Italien
+6057,Mantua,,,,,
+6058,Meissen,,,,,
+6059,Mitteldeutschland,,,,,
+6060,"Mitteldeutschland, Sachsen",,,,,
+6061,Modena,,,,,Italien
+6062,München,,,,,Deutschland
+6063,Neapel / Rom,,,,,
+6064,Neapel / Verona,,,,,
+6065,Neapel,,,,,
+6066,Niederlande?,,,,,
+6067,"Niederlande?, Hinzufügungen in Augsburg?",,,,,
+6068,Niederlande?; teilweise Brüssel/Mechlin,,,,,
+6069,Norditalien (PerkR),,,,,
+6070,Nürnberg,,,,,Deutschland
+6071,Oberitalien (Piemont?),,,,,
+6072,Oberitalien (Venedig?),,,,,
+6073,Österreich (Norden)?,,,,,
+6074,Österreich,,,,,
+6075,"Paris, Frankreich",,,,,
+6076,Parma oder Ravenna,,,,,
+6077,Pirna,,,,,
+6078,Polen (Krakau?),,,,,
+6079,Regensburg,,,,,Deutschland
+6080,Rocca di Mezzo,,,,,
+6081,Rom,,,,,Italien
+6082,Rostock?,,,,,
+6083,Salamanca,,,,,
+6084,Salzburg?,,,,,
+6085,Schlesien / Böhmen,,,,,
+6086,Schottland,,,,,
+6087,"Schottland, probably in Edinburgh or Aberdeen",,,,,
+6088,Schweiz,,,,,
+6089,"Schweiz, Basel",,,,,
+6090,"Schweiz, St. Gallen?",,,,,
+6091,Sevilla,,,,,
+6092,Siena,,,,,Italien
+6093,"Spanien, Barcelona?",,,,,
+6094,"Spanien, Segovia oder Toledo",,,,,
+6095,Straßburg,,,,,
+6096,Stuttgart,,,,,Deutschland
+6097,Süddeutschland oder Österreich,,,,,
+6098,Süddeutschland,,,,,
+6099,Südwestdeutschland (Baden?),,,,,
+6100,Toledo,,,,,Spanien
+6101,"Toledo, Cathedral",,,,,
+6102,Torgau,,,,,
+6103,"Treviso, Italien",,,,,
+6104,Trient,,,,,Italien
+6105,Valladolid,,,,,
+6106,Venedig,,,,,
+6107,Verona,,,,,Italien
+6108,Wien?,,,,,
+6109,Wittenberg,,,,,
+6110,Wittenberg/Bayern,,,,,
+6111,Zwickau,,,,,Deutschland
+6112,Zwickau?,,,,,
+6113,Amsterdam,,,,,Niederlande
+6114,Antwerpen,,,,,Belgien
+6115,Arnsberg-Herdringen,,,,,Deutschland
+6116,Barcelona,,,,,Spanien
+6118,Berlin,,,,,Deutschland
+6120,Brno,,,,,Tscheschische Republik
+6121,Brüssel,,,,,Belgien
+6122,Budapest,,,,,Ungarn
+6125,Chicago,,,,,Vereinigte Staaten von Amerika
+6126,Dresden,,,,,Deutschland
+6127,Edinburgh,,,,,Vereinigtes Königreich
+6131,Greifswald,,,,,Deutschland
+6132,Heilbronn,,,,,Deutschland
+6133,Hradec Králové,,,,,Tschechische Republik
+6134,Jena,,,,,Deutschland
+6135,Krakau,,,,,Polen
+6136,Leiden,,,,,Niederlande
+6138,Linz,,,,,Österreich
+6140,Lucca,,,,,Italien
+6146,Paris,,,,,Frankreich
+6147,Posen,,,,,Polen
+6148,Prag,,,,,Tschechische Republik
+6150,Rocca,,,,,Italien
+6152,Rostock,,,,,Deutschland
+6153,Segovia,,,,,Spanien
+6155,St. Gallen,,,,,Schweiz
+6157,Subiaco,,,,,Italien
+6159,Treviso,,,,,Italien
+6161,Turin,,,,,Italien
+6162,Ulm,,,,,Deutschland
+6163,Uppsala,,,,,Schweden
+6164,Vatikanstadt,,,,,Italien
+6166,Warschau,,,,,Polen
+6167,Washington D.C.,,,,,Vereinigte Staaten von Amerika
+6168,Weimar,,,,,Deutschland
+6169,Wien,,,,,Österreich
+6170,Wolfenbüttel,,,,,Deutschland
+6171,Zürich,,,,,Schweiz

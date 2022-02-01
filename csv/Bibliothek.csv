@@ -1,0 +1,67 @@
+idBibliothek,Name,RISMSiegel,Ort
+10001,Oberösterreichische Landesbibliothek,A-Lls; A-Llb,6138
+10002,"Österreichische Nationalbibliothek, Musiksammlung",A-Wn,6169
+10003,Museum Plantijn-Moretus,B-Amp,6114
+10004,Bibliothèque royale de Belgique,B-Br,6121
+10005,"Universitätsbibliothek, Musiksammlung",CH-Bu,6009
+10006,Stiftsbibliothek,CH-SGs; CH-StG,6155
+10007,Zentralbibliothek,CH-Zz,6171
+10008,Archiv mesta Brna,CZ-Bmb,6120
+10009,Muzeum východních Čech v Hradci Králové,CZ-HKm,6133
+10010,Národní knihovna České republiky,CZ-Pu,6148
+10011,"Staatsbibliothek zu Berlin - Preußischer Kulturbesitz, Musikabteilung",D-B,6118
+10012,Sächsische Landesbibliothek - Staats- und Universitätsbibliothek,D-Dl; D-Dlb; [D-D],6126
+10013,"Stadtarchiv, Bibliothek",D-EIa,6023
+10014,Universitätsbibliothek Johann Christian Senckenberg,D-F,6028
+10015,Universitätsbibliothek,D-GRu,6131
+10016,Stadtarchiv,D-HBa,6132
+10017,"Schloßbibliothek, Bibliotheca Fürstenbergiana",D-HRD,6115
+10018,Thüringer Universitäts- und Landesbibliothek,D-Ju,6134
+10019,"Universitätsbibliothek, ""Bibliotheca Albertina""",D-LEu,6049
+10020,"Bayerische Staatsbibliothek, Musikabteilung",D-Mbs,6062
+10021,Universitätsbibliothek,D-Mu,6062
+10022,"Germanisches National-Museum, Bibliothek",D-Ngm,6070
+10023,"Universität Rostock, Universitätsbibliothek: Abt. Sondersammlungen, Musikalien",D-ROu,6152
+10024,"Bischöfliche Zentralbibliothek, Die Proskesche Musikabteilung",D-Rp,6079
+10025,Württembergische Landesbibliothek,D-Sl,6096
+10026,"Von Schermar´sche Familienstiftung, Bibliothek",D-Usch; D-Usche,6162
+10027,Herzog August Bibliothek,D-W,6170
+10028,"Herderkirche, Ephoralbibliothek",D-WRhk,6168
+10029,Ratsschulbibliothek,D-Z,6111
+10030,Biblioteca Nacional de Catalunya/Biblioteca Central,E-Bbc,6116
+10031,Biblioteca Orfeó Catalá,E-Boc,6116
+10032,Archivo Capitular de la Catedral,E-SE,6153
+10033,"Catedral, Archivo y Biblioteca Capítulares",E-Tc,6100
+10034,Bibliothèque municipale,F-CA; F-Ca,6018
+10035,"Bibliothèque nationale de France, Département de la Musique",F-Pn,6146
+10036,National Library of Scotland,GB-En,6127
+10037,The British Library,GB-Lbl,6051
+10038,Országos Széchényi Könyvtár,H-Bn,6122
+10039,Museo internazionale e biblioteca della musica di Bologna,I-Bc,6013
+10040,Archivio Musicale della Basilica di San Petronio,I-Bsp,6013
+10041,Archivio Capitolare di Casale Monferrato,I-CMac,6019
+10042,Biblioteca Nazionale Centrale,I-Fn,6026
+10043,Archivio di Stato,I-LUs,6140
+10044,Biblioteca Ambrosiana,I-Ma,6056
+10045,"Veneranda Fabbrica del Duomo, Biblioteca",I-Mfd,6056
+10046,Archivio di Stato,I-MOas,6061
+10047,"Duomo, Biblioteca e Archivio Capitolare",I-MOd,6061
+10048,Biblioteca Estense,I-MOe,6061
+10049,Biblioteca privata Polesini,I-Mpolesini,6056
+10050,Museo Parrocchiale,I-RdMmp,6150
+10051,"Basilica di Santa Maria Maggiore, Archivio Capitolare",I-Rsm,6081
+10052,Biblioteca Apostolica Vaticana,I-Rvat; V-CVbav,6164
+10053,Biblioteca Comunale degli Intronati,I-Sc,6092
+10054,"Protocenobio di S. Scolastica (Abbazia), Biblioteca",I-SUb; I-SUss,6157
+10055,Biblioteca Nazionale,I-Tn,6161
+10056,"Castello del Buonconsiglio, Biblioteca",I-TRbc,6104
+10057,Biblioteca Capitolare del Duomo di Treviso,I-TVcap,6159
+10058,Biblioteca Capitolare,I-VEcap,6107
+10059,Toonkunst-Bibliotheek,NL-At,6113
+10060,Gemeentearchief,NL-L,6136
+10061,Biblioteka Jagiellonska,PL-Kj,6135
+10062,Biblioteka Uniwersytecka. Sekcja Zbiorów Muzycznych w Oddziale Zbiorów Specjalnych,PL-Pu,6147
+10063,Biblioteka Uniwersytecka,PL-Wu,6166
+10064,"Universitetsbibliotek, Carolina Rediviva",S-Uu; S-Up,6163
+10065,Newberry Library,US-Cn,6125
+10066,"The Library of Congress, Music Division",US-Wc; US-Wcm,6167

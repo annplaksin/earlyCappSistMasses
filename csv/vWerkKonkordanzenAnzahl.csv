@@ -1,0 +1,110 @@
+idWerk,Titel,Bezeichnung,Konk_total,Konk_kern,Konk_Hs,Konk_Ausgaben,Konk_Tabulatur,Konk_Theorie
+8001,Missa Ave Regina caelorum,Weerbeke,4,1,2,1,0,0
+8002,Missa Se la face ay pale,Dufay,4,1,2,0,0,1
+8003,Missa Spiritus almus,de Dormarto,8,1,4,0,0,3
+8004,Missa Aeterne rex altissime,Vincenet,1,1,0,0,0,0
+8005,Missa Dixerunt discipuli,Eloy,2,1,0,0,0,1
+8006,Missa sine nomine,anonym,2,1,1,0,0,0
+8007,Missa Ecce ancilla domini,Dufay,2,1,1,0,0,0
+8008,Missa Ecce ancilla domini,Regis,2,1,1,0,0,0
+8009,Missa L´homme armé,Dufay,5,2,2,0,0,1
+8010,Missa L´homme armé,Busnoys,9,2,5,0,0,2
+8011,Missa Dum sacrum misterim / L´homme armé,Regis,2,1,0,0,0,1
+8012,Missa L´homme armé,Caron,2,1,1,0,0,0
+8013,Missa L´homme armé,Faugues,3,1,2,0,0,0
+8014,Missa De plus en plus,Ockeghem,3,1,1,0,0,1
+8015,Missa Puis que je vis,anonym,1,1,0,0,0,0
+8016,Missa de Angelis,Prioris,5,1,4,0,0,0
+8017,Missa Je ne demande,Agricola,3,1,1,1,0,0
+8018,Missa Gaudeamus,Josquin,22,1,9,5,4,3
+8019,Missa Malheur me bat,Josquin,26,1,15,6,0,4
+8020,Missa Le Serviteur,Agricola,5,1,2,1,0,1
+8021,Missa L´ami baudichon,Josquin,15,1,10,4,0,0
+8022,Missa Le villain jalloux,Fevin,2,1,0,1,0,0
+8023,Missa Faisant regret,Josquin,21,1,7,4,9,0
+8024,Missa De beata virgine,Josquin,87,2,47,8,23,7
+8026,Missa Quarti Toni,Fresneau,2,1,1,0,0,0
+8027,Missa Dominicalis,Brumel,4,1,3,0,0,0
+8028,Missa Tant bel mi sont pensade,Prioris,2,1,1,0,0,0
+8029,Missa Puer natus,de la Rue,11,1,9,1,0,0
+8030,Missa Ave maris stella,anonym,1,1,0,0,0,0
+8031,Missa A qui diralle sa pensée,anonym,1,1,0,0,0,0
+8032,Missa Cujusvis toni,Ockeghem,6,1,2,1,0,2
+8033,Kyrie-Gloria De beata virgine,anonym,2,1,1,0,0,0
+8034,Missa Quant j´ay au ceur,Isaac,50,1,25,4,10,10
+8035,Missa La martinelle,Martini,1,1,0,0,0,0
+8036,Missa Allez regrets,Prioris,1,1,0,0,0,0
+8037,Missa L´homme armé,Compere,8,1,7,0,0,0
+8038,Missa de Sancto Donatiano,Obrecht,2,1,1,0,0,0
+8039,Missa L´homme armé,Tinctoris,1,1,0,0,0,0
+8040,Missa [ad fugam],Orto,2,2,0,0,0,0
+8041,Missa L´homme armé,Basiron,1,1,0,0,0,0
+8042,Missa de Franza,Basiron,4,1,2,1,0,0
+8043,Missa Se mieulx ne vient,Weerbeke,4,1,2,1,0,0
+8044,Missa L´homme armé,Ockeghem,2,1,1,0,0,0
+8045,Missa Princesse d´amourettes,Weerbeke,3,1,2,0,0,0
+8046,Missa de feria,Martini,4,1,2,1,0,0
+8047,Missa Plurimorum carminum I,Obrecht,5,2,3,0,0,0
+8048,Missa Gentilz gallans,Pintelli,1,1,0,0,0,0
+8049,Missa L´homme armé,Pipelare,6,1,3,2,0,0
+8050,Missa L´homme armé sexti toni,Josquin,28,1,11,5,1,10
+8051,Missa La sol fa re mi,Josquin,27,1,14,5,6,1
+8052,Missa Fortuna,Josquin,20,1,5,7,3,4
+8053,Missa Ave maris stella,Josquin,25,1,11,6,7,0
+8055,Missa De beata virgine,de la Rue,10,1,8,1,0,0
+8056,Missa Victime,Brumel,8,1,3,1,0,3
+8057,Missa Au travail suis,Ockeghem,3,2,1,0,0,0
+8058,Missa Quarti Toni [=Mi Mi?],Ockeghem,3,2,1,0,0,0
+8059,Missa Da pacem domine,Pasquin,1,1,0,0,0,0
+8060,Missa D´ung aultre amer,Josquin,14,2,7,5,0,0
+8061,Missa Trop penser,Weerbeke,3,1,1,1,0,0
+8062,Missa Du bon du ceur,Vaqueras,1,1,0,0,0,0
+8063,Missa [Adieu madame],anonym,1,1,0,0,0,0
+8064,Missa L´homme armé,Vaqueras,1,1,0,0,0,0
+8066,Missa [Sine nomine],anonym,1,1,0,0,0,0
+8067,Missa Comme femme,Isaac,6,1,4,1,0,0
+8068,Missa T´meiskin,Isaac,5,1,4,0,0,0
+8069,Missa *,Hilanas,1,1,0,0,0,0
+8070,Missa Ave maris stella,anonym,1,1,0,0,0,0
+8071,Missa Elle est bien malade,anonym,2,2,0,0,0,0
+8072,Missa ad fugam,Josquin,11,1,2,3,2,3
+8073,Missa L´homme armé,Brumel,8,1,6,1,0,0
+8074,Missa Acueilly m´a la belle,Caron,1,1,0,0,0,0
+8075,Missa Pour quoy,Heyns,3,1,2,0,0,0
+8076,Missa O gloriosa,Vincenet,2,1,1,0,0,0
+8077,Missa Et super novem dealabor,de Clibano,1,1,0,0,0,0
+8078,Missa Jesus autem transiens,Caron,1,1,0,0,0,0
+8079,Missa Basse danse,Faugues,2,1,1,0,0,0
+8080,Missa Vinnus vina,Faugues,4,1,0,0,0,3
+8081,Missa Sanguis sanctorum,Caron,2,1,1,0,0,0
+8082,Missa L´ardant désir,anonym,1,1,0,0,0,0
+8083,Missa O Crux lignum triumphale,Busnoys,1,1,0,0,0,0
+8084,Missa D´ung aultre amer,anonym,3,1,2,0,0,0
+8085,Missa Regina caeli,Basiron,2,1,1,0,0,0
+8086,Missa O venus bant,Weerbeke,12,1,9,1,0,1
+8087,Missa Orsus orsus,Martini,6,1,5,0,0,0
+8088,Missa Cela sans plus,Martini,1,1,0,0,0,0
+8089,Missa Je ne demande,anonym,1,1,0,0,0,0
+8090,Missa Salve diva parens,Obrecht,16,1,6,5,0,4
+8094,Missa [Sine nomine],anonym,1,1,0,0,0,0
+8095,Missa [De Feria],anonym,1,1,0,0,0,0
+8096,Missa L´homme armé super voces,Josquin,74,1,18,8,7,40
+8097,Kyrie paschali,anonym,1,1,0,0,0,0
+8098,Kyrie tempore paschali,anonym,1,1,0,0,0,0
+8099,Missa [de beata virgine],Wreede,1,1,0,0,0,0
+8100,Gloria [de beata virgine],anonym,1,1,0,0,0,0
+8101,Credo,anonym,1,1,0,0,0,0
+8102,Gloria [de beata Virgine],anonym,1,1,0,0,0,0
+8103,Credo [de Village],de Clibano,6,1,4,1,0,0
+8104,Credo [De tous bien],Weerbeke,3,1,1,1,0,0
+8105,Credo I,Vaqueras,2,1,1,0,0,0
+8106,Credo,anonym,1,1,0,0,0,0
+8107,Credo IV,Vaqueras,2,1,1,0,0,0
+8108,Credo Chascun me crie,Josquin,5,1,3,1,0,0
+8109,Credo (a cinque),Orto,1,1,0,0,0,0
+8110,Credo Je ne vis oncques II,Agricola,2,1,1,0,0,0
+8112,Kyrie de feria,anonym,1,1,0,0,0,0
+8113,Credo Vilayge II,Josquin,6,1,4,1,0,0
+8115,Credo De tous biens playne,Josquin,2,1,0,1,0,0
+8116,Credo La belle se siet,Josquin,2,1,0,1,0,0
+8122,Missa L´homme armé,Orto,2,1,0,1,0,0
