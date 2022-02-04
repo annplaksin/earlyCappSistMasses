@@ -1,0 +1,21 @@
+{
+    "creators": [
+        {
+            "orcid": "0000-0002-9969-0608",
+            "name": "Plaksin, Anna"
+        }
+    ],
+
+    "upload-type": "dataset",
+
+    "title": "Collected metadata for masses in the early Cappella Sistina choirbooks",
+
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.26083/tuprints-00017211",
+            "relation": "isSupplementTo",
+            "resource_type": "book"
+        }
+    ]
+}
