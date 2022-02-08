@@ -1,5 +1,7 @@
 # Collected metadata for masses in the early Cappella Sistina choirbooks
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6006654.svg)](https://doi.org/10.5281/zenodo.6006654)
+
 ## About
 
 This repository contains a collection of metadata about the early Cappella Sistina choirbooks, once belonging to the Papal Chapel.
